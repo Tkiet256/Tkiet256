@@ -56,3 +56,15 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-ki%E1%BB%87t-b769b1328/">
+        <img src="img/linkedIn.png" height="40" alt="LinkedIn">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.facebook.com/tuan.kiet.2506/">
+        <img src="img/facebook.png" height="40" alt="Facebook">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/tuaan.kiettt/">
+        <img src="img/instagram.png" height="40" alt="Instagram">
+    </a>&nbsp;&nbsp;
+</p>
