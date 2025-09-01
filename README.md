@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=30&lines=Hi%2C+I'm+Tuan+Kiet)](https://git.io/typing-svg)
 
 <h2 style="color:#1E90FF; display: flex; align-items: center;">
-  <a href="https://github.com/Tkiet256" style="display: inline-flex; align-items: center; text-decoration: none;">
+  <a href="img/github.png" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="margin-right: 8px; filter: invert(1);">
     <span style="color:#1E90FF; font-size: 1.5em;">GitHub Stats:</span>
   </a>
@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 
 <h2 style="color:#1E90FF; display: flex; align-items: center;">
-    <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40" style="margin-right: 8px;">
+    <a href="https://leetcode.com/u/Tkiet256/" style="display: inline-flex; align-items: center; text-decoration: none;">
+        <img src="img/leetcode.svg" height="40" style="margin-right: 8px;">
         <span style="font-size: 1.5em;">LeetCode Stats</span>
       </a>
 </h2>
