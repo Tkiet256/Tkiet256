@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 -->
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=30&lines=Hi%2C+I'm+Tuan+Kiet)](https://git.io/typing-svg)
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px">
+
+
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px">
+
+
+
 <h2 style="color:#1E90FF; display: flex; align-items: center;">
   <a href="img/github.png" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="margin-right: 8px; filter: invert(1);">
@@ -32,7 +41,7 @@ Here are some ideas to get you started:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tkiet256&theme=react-dark)
 
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px">
 
 <h2 style="color:#1E90FF; display: flex; align-items: center;">
     <a href="https://leetcode.com/u/Tkiet256/" style="display: inline-flex; align-items: center; text-decoration: none;">
