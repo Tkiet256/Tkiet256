@@ -1,4 +1,4 @@
-👋👋👋👋👋👋
+👋👋👋👋👋
 <!--
 **Tkiet256/Tkiet256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 -->
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=30&lines=Hi%2C+I'm+Tuan+Kiet)](https://git.io/typing-svg)
 
+<!-- Introduce -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px">
+👋 Hi, I'm a Computer Science student at <b>Ho Chi Minh City University of Technology (HCMUT)</b>.
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px">
 
 
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px">
-
-
-
+<!-- Stats -->
 <h2 style="color:#1E90FF; display: flex; align-items: center;">
   <a href="img/github.png" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="margin-right: 8px; filter: invert(1);">
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tkiet256&theme=react-dark)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px">
+
 
 <h2 style="color:#1E90FF; display: flex; align-items: center;">
     <a href="https://leetcode.com/u/Tkiet256/" style="display: inline-flex; align-items: center; text-decoration: none;">
@@ -57,6 +58,8 @@ Here are some ideas to get you started:
 </p>
 
 
+<!-- Contact -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px">
 <p align="center">
     <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-ki%E1%BB%87t-b769b1328/">
         <img src="img/linkedIn.png" height="40" alt="LinkedIn">
