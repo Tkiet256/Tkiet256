@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h2 style="color:#1E90FF; display: flex; align-items: center;">
+    <a href="https://leetcode.com/u/Tkiet256/" style="display: inline-flex; align-items: center; text-decoration: none;">
+        <img src="asset/leetcode.svg" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
+        <span style="color:#1E90FF; font-size: 1.5em; vertical-align: middle;">LeetCode Stats:</span>
+</h2>
+
+<p>
+    <a href="https://leetcode.com/u/Tkiet256/">
+    <img src="https://leetcard.jacoblin.cool/Tkiet256?theme=dark&ext=heatmap">
+    </a>
+</p>
