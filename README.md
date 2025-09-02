@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=30&lines=Hi%2C+I'm+Tuan+Kiet)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=30&lines=Hi%2C+I'm+Tuan+Kiet;An+AI+Engineer;A+Data+Analyst)](https://git.io/typing-svg)
 <!-- Introduce -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px">
 👋 I'm a Computer Science student at <b>Ho Chi Minh City University of Technology (HCMUT)</b>, with a deep passion for technology and a strong aspiration to become an AI engineer and data analyst. 
